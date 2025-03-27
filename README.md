@@ -13,12 +13,12 @@ Welcome to **Tic-Tac-Toe**, where strategy meets AI! This isn't just any Tic-Tac
 ## 🎯 How to Play
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/tic-tac-toe-ai.git
-   cd tic-tac-toe-ai
+   git clone https://github.com/GitelFeldman/PYTHON-smart-TicTacToe.git
+   cd PYTHON-smart-TicTacToe
    ```
 2. Run the game:
    ```sh
-   python tic_tac_toe.py
+   python main.py
    ```
 3. Follow the on-screen instructions and try to beat the AI! 😈
 
